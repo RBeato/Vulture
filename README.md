@@ -1,6 +1,6 @@
-# tweether_2
+# Vulture
 
-A new Flutter project.
+A decentralized twitter clone
 
 ## Getting Started
 
